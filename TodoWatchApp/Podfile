@@ -1,0 +1,12 @@
+target 'TodoWatchApp' do
+  use_frameworks!
+  pod 'PusherSwift'
+end
+
+target 'TodoWatchApp WatchKit App' do
+  use_frameworks!
+end
+
+target 'TodoWatchApp WatchKit Extension' do
+  use_frameworks!
+end
